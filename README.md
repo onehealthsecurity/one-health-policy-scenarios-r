@@ -43,6 +43,7 @@ This repository forms part of the **One Health Security** framework, which integ
 
 All work is designed to connect with secure biological data infrastructure provided by **The BioChain**:
 
+The BioChain – secure biological data infrastructure  
 https://www.thebiochain.com
 
 ---
@@ -148,6 +149,7 @@ Consultancy enquiries are welcome in:
 
 Contact: [workwith@onehealthsecurity.com](mailto:workwith@onehealthsecurity.com)
 LinkedIn: https://www.linkedin.com/company/111921898
+Website: www.onehealthsecurity.com
 
 ---
 
