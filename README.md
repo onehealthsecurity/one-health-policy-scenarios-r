@@ -63,6 +63,14 @@ The model incorporates:
 These variables are combined into a weighted composite risk score.
 
 ---
+## How to Run
+
+Run scripts in order:
+
+1. scripts/01_generate_sample_data.R  
+2. scripts/02_risk_scoring_model.R  
+3. scripts/03_policy_scenarios.R  
+4. scripts/04_visualisation.R
 
 ## Policy Scenarios
 
@@ -85,6 +93,7 @@ The model produces:
 * visual representations of risk distribution
 
 ---
+This model is intended as a decision-support tool rather than a predictive system.
 
 ## Repository Structure
 
